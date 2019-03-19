@@ -26,6 +26,13 @@ CIS 3580 - Network & IT Infrastructures
 Introduced to the processes of selecting, modeling, configuring, and maintaining the components of an IT infrastructure. 
 Examined current hardware components, networking devices, and security issues will be examined through both individual and group projects 
 
+
+CIS 3680 - Programming Software Solutions 
+- Utilization of Python programming language 
+
+CIS 3750 - Database Management 
+- Utilization of Oracle and MySQL
+
     PROFESSIONAL EXPERIENCE	
 *APPALACHIAN STATE UNIVERSITY – OFFICE OF STUDENT AFFAIRS                        
 Boone, NC

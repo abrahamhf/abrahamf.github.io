@@ -8,10 +8,21 @@ Hi! My name is Fiona Abraham and I am a computer information systems major and s
 
 Born and raised in Toronto until I was twelve, my family and I moved to North Carolina after my father got a job offer in Durham, North Carolina. Since then, I have lived in five different cities and have travelled to four out of the seven continents. Travelling is one of my biggest passions and I believe everyone should travel as frequently as possible. 
 
+Below are some of my favorite pictues. 
+
 
 ```{r, echo = FALSE, fig.align="center"}
-knitr::include_graphics("Pictures/website-2.jpg", dpi = 200)
+knitr::include_graphics("Pictures/website-2.jpg", dpi = 300)
 ```
 
+```{r, echo = FALSE, fig.align="center"}
+knitr::include_graphics("Pictures/website-3.jpg", dpi = 300)
+```
 
+```{r, echo = FALSE, fig.align="center"}
+knitr::include_graphics("Pictures/website-4.jpg", dpi = 300)
+```
 
+```{r, echo = FALSE, fig.align="center"}
+knitr::include_graphics("Pictures/website-5.jpg", dpi = 300)
+```
