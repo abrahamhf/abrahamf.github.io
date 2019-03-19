@@ -8,16 +8,11 @@ navbar:
       href: resume.html
     - text: "Linkedin"
       href: https://www.linkedin.com/in/fiona-abraham-473562148/
-    - text: "Twitter"
-      href: https://twitter.com/fhka_
-    - text: "Instagram"
-      href: https://www.instagram.com/fi.jpg/
     - text: "Quora"
       href: https://quora.com/Fiona-Abraham
     - text: "Tumblr"
       href: https://fionahaddis.tumblr.com/
-    - text: "Soundcloud"
-      href: https://soundcloud.com/fionahaddis
+
       
       
       
@@ -28,8 +23,6 @@ navbar:
       href: abrahamf@appstate.edu
     - icon: fa-github fa-lg
       href: http://github.com/abrahamhf
-    - icon: fa-quora fa-lg
-      href: https://quora.com/Fiona-Abraham
       
 output:
   html_document:
