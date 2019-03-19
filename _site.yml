@@ -27,7 +27,7 @@ navbar:
 output:
   html_document:
     theme: journal
-    css: 'textmate.css'
+    highlight: textmate
 
 
   
